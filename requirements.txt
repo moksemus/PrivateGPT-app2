@@ -1,5 +1,5 @@
 langchain
-pygpt4all
+pygpt4all==1.1.0
 chromadb
 llama-cpp-python
 urllib3
